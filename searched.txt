@@ -1,0 +1,7 @@
+
+Your requested Search is:
+
+Name		USN		Date of Birth		Place
+----------------------------------------------------------------------------------------------------------
+ramesh		1rn12cs078		1/1/1994		Banglore
+rajath		1rn12cs074		1/12/1995		Banglore

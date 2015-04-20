@@ -1,0 +1,8 @@
+Student details are as follows
+
+Name		USN		Date of Birth		Address
+-------------------------------------------------------------------------------------------
+ramesh		1rn12cs078		1/1/1994		Banglore
+rajath		1rn12cs074		1/12/1995		Banglore
+sachin		1rn12ec075		12/5/1996		Bellary
+rakesh		1rn12ec076		15/12/1995		Manglore
